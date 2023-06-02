@@ -32,7 +32,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Week\nDay\nTopic\nBayes Rules\n\n\n\n\n1\nJanuary ZZZ\nIntroduction to Bayesian thinking\n1\n\n\n2\n\nStarting with Bayes’ rule\n2\n\n\n3\n\nThe beta-binomial Bayesian model\n3\n\n\n4\n\nConjugate families\n4–5\n\n\n5\n\nApproximating the posterior with MCMC\n6–7\n\n\n6\n\nPosterior inference and prediction\n8\n\n\n7\n\nBayesian regression\n9–11\n\n\n8\n\nPoisson and negative binomial regression\n12\n\n\n9\n\nLogistic regression\n13\n\n\n10\n\nMultilevel models I\n15\n\n\n11\n\nMultilevel models II\n16\n\n\n12\n\nMultilevel models III\n17\n\n\n13\n\nMultilevel models IV\n18–19\n\n\n14\n\nMovable catch-up breather week\n—"
+    "text": "Week\nDay\nTopic\nBayes Rules\n\n\n\n\n1\nJune 5–June 9\nIntroduction to Bayesian thinking + Starting with Bayes’ rule\n1–2\n\n\n2\nJune 12–June 16\nThe beta-binomial Bayesian model + Conjugate families\n3–5\n\n\n3\nJune 19–June 23\nApproximating the posterior with MCMC + Posterior inference and prediction\n6–8\n\n\n4\nJune 26–June 30\nBayesian regression\n9–11\n\n\n5\nJuly 3–July 7\nPoisson and negative binomial regression + Logistic regression\n12–13\n\n\n6\nJuly 10–July 14\nMultilevel models I\n15–16\n\n\n7\nJuly 17–July 30\nMultilevel models II\n17–19"
   },
   {
     "objectID": "syllabus.html",
