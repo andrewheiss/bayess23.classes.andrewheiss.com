@@ -76,7 +76,7 @@ withr::with_dir(here::here(), {
 
 Independent readings course on Bayesian statistics with R and Stan
 
-Spring 2023
+Summer 2023
 
 :::
 

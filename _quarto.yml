@@ -18,21 +18,21 @@ description-meta: "Independent readings course on Bayesian statistics at the And
 
 website:
   title: "Bayesian Statistics"
-  #site-url: "https://bayessp23.classes.andrewheiss.com/"
+  #site-url: "https://bayess23.classes.andrewheiss.com/"
 
   favicon: "/files/favicon.png"
 
   twitter-card:
-    image: "https://bayessp23.classes.andrewheiss.com/files/social-image-sp23.png"
+    image: "https://bayess23.classes.andrewheiss.com/files/social-image-s23.png"
     card-style: summary_large_image
     creator: "@andrewheiss"
     # site: "@andrewheiss"
 
   open-graph:
-    image: "https://bayessp23.classes.andrewheiss.com/files/social-image-sp23.png"
+    image: "https://bayess23.classes.andrewheiss.com/files/social-image-s23.png"
     locale: en_US
 
-  repo-url: "https://github.com/andrewheiss/bayessp23.classes.andrewheiss.com"
+  repo-url: "https://github.com/andrewheiss/bayess23.classes.andrewheiss.com"
   repo-actions: [edit, issue]
 
   page-navigation: true
@@ -47,7 +47,7 @@ website:
       - text: "My *Bayes Rules!* notebook"
         href: "https://bayesf22-notebook.classes.andrewheiss.com/bayes-rules/"
       - icon: github
-        href: "https://github.com/andrewheiss/bayessp23.classes.andrewheiss.com"
+        href: "https://github.com/andrewheiss/bayess23.classes.andrewheiss.com"
         aria-label: GitHub
 
   page-footer:
@@ -58,7 +58,7 @@ website:
       [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
-      [View the source at {{< fa brands github >}} GitHub](https://github.com/andrewheiss/bayessp23.classes.andrewheiss.com)
+      [View the source at {{< fa brands github >}} GitHub](https://github.com/andrewheiss/bayess23.classes.andrewheiss.com)
 
 
 format:

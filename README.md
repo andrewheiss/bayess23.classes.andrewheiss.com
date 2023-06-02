@@ -1,10 +1,10 @@
 
 <!-- README.md is generated from README.qmd. Please edit that file -->
 
-# Bayesian Statistics Readings <a href='https://bayessp23.classes.andrewheiss.com/'><img src='files/favicon.png' align="right" height="139" /></a>
+# Bayesian Statistics Readings <a href='https://bayess23.classes.andrewheiss.com/'><img src='files/favicon.png' align="right" height="139" /></a>
 
 [Andrew Heiss](https://www.andrewheiss.com/)  
-[PMAP 8911 • Fall 2022](https://bayessp23.classes.andrewheiss.com/)  
+[PMAP 8911 • Fall 2022](https://bayess23.classes.andrewheiss.com/)  
 Andrew Young School of Policy Studies • Georgia State University
 
 ------------------------------------------------------------------------
@@ -17,7 +17,7 @@ Andrew Young School of Policy Studies • Georgia State University
     [Quarto](https://quarto.org/) installation embedded in it.
     Otherwise, download and install [Quarto](https://quarto.org/)
     separately.
-2.  Open `bayessp23.Rproj` to open an [RStudio
+2.  Open `bayess23.Rproj` to open an [RStudio
     Project](https://r4ds.had.co.nz/workflow-projects.html).
 3.  If it’s not installed already, R *should* try to install the [{renv}
     package](https://rstudio.github.io/renv/) when you open the RStudio
