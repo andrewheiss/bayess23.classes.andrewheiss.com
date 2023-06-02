@@ -86,7 +86,7 @@ build_triptych_panels <- function() {
 
   p2 <- ggplot(data) +
     aes(x = age, y = prop) +
-    geom_line(aes(y = fit), data = new_data, size = 1, color = "#20235b") +
+    geom_line(aes(y = fit), data = new_data, linewidth = 1, color = "#20235b") +
     geom_point(fill = "#247d3f", color = "white", size = 4, pch = 21) +
     theme(
       axis.ticks = element_blank(),

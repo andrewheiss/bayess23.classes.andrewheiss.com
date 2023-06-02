@@ -4,7 +4,7 @@
 # Bayesian Statistics Readings <a href='https://bayess23.classes.andrewheiss.com/'><img src='files/favicon.png' align="right" height="139" /></a>
 
 [Andrew Heiss](https://www.andrewheiss.com/)  
-[PMAP 8911 • Fall 2022](https://bayess23.classes.andrewheiss.com/)  
+[PMAP 8911 • Summer 2023](https://bayess23.classes.andrewheiss.com/)  
 Andrew Young School of Policy Studies • Georgia State University
 
 ------------------------------------------------------------------------
@@ -65,8 +65,9 @@ graph on GitHub. You can also view it by pasting the code into
 ``` mermaid
 graph LR
   subgraph Graph
-    xea717cf4a37d25dd(["bayesian_triptych"]):::skipped --> x7aa56383a054e8ba(["site"]):::queued
-    xf38d3f5e6365ad72(["workflow_graph"]):::started --> x6e52cb0f1668cc22(["readme"]):::queued
+    direction LR
+    xea717cf4a37d25dd(["bayesian_triptych"]):::built --> x7aa56383a054e8ba(["site"]):::queued
+    xf38d3f5e6365ad72(["workflow_graph"]):::queued --> x6e52cb0f1668cc22(["readme"]):::queued
   end
 ```
 
