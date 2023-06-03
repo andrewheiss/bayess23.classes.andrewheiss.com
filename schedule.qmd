@@ -3,21 +3,14 @@ title: Schedule
 page-layout: full
 ---
 
-| Week | Day         | Topic                                        | *Bayes Rules* |
-|:-------------:|---------------|---------------|:-------------:|
-|  1   | January ZZZ | **Introduction to Bayesian thinking**        |       1       |
-|  2   |             | **Starting with Bayes' rule**                |       2       |
-|  3   |             | **The beta-binomial Bayesian model**         |       3       |
-|  4   |             | **Conjugate families**                       |     4--5      |
-|  5   |             | **Approximating the posterior with MCMC**    |     6--7      |
-|  6   |             | **Posterior inference and prediction**       |       8       |
-|  7   |             | **Bayesian regression**                      |     9--11     |
-|  8   |             | **Poisson and negative binomial regression** |      12       |
-|  9   |             | **Logistic regression**                      |      13       |
-|  10  |             | **Multilevel models I**                      |      15       |
-|  11  |             | **Multilevel models II**                     |      16       |
-|  12  |             | **Multilevel models III**                    |      17       |
-|  13  |             | **Multilevel models IV**                     |    18--19     |
-|  14  |             | **Movable catch-up breather week**           |      ---      |
+| Week | Day              | Topic                                                                              | *Bayes Rules* |
+|:----------------:|------------------|------------------|:----------------:|
+|  1   | June 5--June 9   | **Introduction to Bayesian thinking** + **Starting with Bayes' rule**              |     1--2      |
+|  2   | June 12--June 16 | **The beta-binomial Bayesian model** + **Conjugate families**                      |     3--5      |
+|  3   | June 19--June 23 | **Approximating the posterior with MCMC** + **Posterior inference and prediction** |     6--8      |
+|  4   | June 26--June 30 | **Bayesian regression**                                                            |     9--11     |
+|  5   | July 3--July 7   | **Poisson and negative binomial regression** + **Logistic regression**             |    12--13     |
+|  6   | July 10--July 14 | **Multilevel models I**                                                            |    15--16     |
+|  7   | July 17--July 30 | **Multilevel models II**                                                           |    17--19     |
 
 : {tbl-colwidths="\[5,20,55,30\]"}
